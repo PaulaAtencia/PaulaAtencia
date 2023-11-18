@@ -5,7 +5,8 @@
 - 📫 My instagram: [@xxp_au](https://www.instagram.com/xxp_au/)
 - ☕ Multitasking
 - 📖 Always divulging between books
-- 😝 MISS cateta and crazy
+- 📷 Pixelart Design Skills (PhotoShop)
+  
 
 ## 🧠 My knowledge of languages ⚙️
 - Java: Learning progressively...
