@@ -1,4 +1,4 @@
-##🎇 Welcome, I’m @PaulaAtencia 👋
+## 🎇 Welcome, I’m @PaulaAtencia 👋
 
 
 - 👀 Interested in video games and cybersecurity.
