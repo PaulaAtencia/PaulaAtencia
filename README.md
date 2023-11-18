@@ -1,4 +1,4 @@
-## 🎇 Welcome, I’m @PaulaAtencia 👋
+# 🎇 Welcome, I’m @PaulaAtencia 👋
 
 
 - 👀 Interested in video games and cybersecurity.
@@ -7,7 +7,7 @@
 - 📖 Always divulging between books
 - 😝 MISS cateta and crazy
 
-# 🧠 My knowledge of languages ⚙️
+## 🧠 My knowledge of languages ⚙️
 - Java: Learning progressively...
 - HTML and CSS: First language I learned and of which I already know all its concepts.
 - Self-taught (JavaScript, C#, C, Ruby and Haskell).
