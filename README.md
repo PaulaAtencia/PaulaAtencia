@@ -2,7 +2,6 @@
 
 
 - 👀 Interested in video games and cybersecurity.
-- 📫 My instagram: [@xxp_au](https://www.instagram.com/xxp_au/)
 - ☕ Multitasking
 - 📖 Always divulging between books
 - 📷 Pixelart Design Skills (PhotoShop)
