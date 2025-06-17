@@ -1,14 +1,29 @@
 # 🎇 Welcome, I’m @PaulaAtencia 👋
+## 👀 About Me
+
+- 🎮 Passionate about **video games** and **cybersecurity**.
+- 🎨 Skilled in **Pixel Art Design** using **Photoshop**.
+- 📚 Always learning and exploring new technologies.
+
+---
+
+## 💻 Technologies & Tools
+
+### 👨‍💻 Programming Languages
+- **TypeScript** | **JavaScript** | **Python** | **C#** | **Java** | **Kotlin**
+
+### 🌐 Web Development
+- **HTML** | **CSS** | **SCSS** | **Angular** | **Ionic**
+
+### 📱 Mobile & App Development
+- **Android (XML)** | **Ionic Framework**
+
+### 🎮 Game Development
+- **Unity (C#)**
+
+### 🗄️ Databases
+- **Strapi** | **MySQL** | **PostgreSQL** | **NoSQL** | **Firebase**
+
+---
 
 
-- 👀 Interested in video games and cybersecurity.
-- 📷 Pixelart Design Skills (PhotoShop)
-  
-
-## 🧠 My knowledge of languages ⚙️
-- Java: Learning progressively...
-- HTML and CSS: First language I learned and of which I already know all its concepts.
-<!---
-PaulaAtencia/PaulaAtencia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
