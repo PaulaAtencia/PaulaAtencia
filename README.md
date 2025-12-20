@@ -39,6 +39,28 @@ const developer = {
 
 ---
 
+## 🎮 Featured Game Project
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulaAtencia/PaulaAtencia/main/santa.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaulaAtencia/PaulaAtencia/main/santa.svg">
+  <img alt="Santa Claus Animation" src="https://raw.githubusercontent.com/PaulaAtencia/PaulaAtencia/main/santa.svg" width="300">
+</picture>
+
+### 🎯 Shot of Duty
+
+**🎲 Play my game now!**
+
+[![Itch.io](https://img.shields.io/badge/Play%20on%20Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://crazypeque.itch.io/shot-of-duty)
+
+*An exciting shooter game created with passion and pixels!*
+
+</div>
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
